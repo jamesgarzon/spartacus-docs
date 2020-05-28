@@ -33,6 +33,20 @@ For example:
 
 The `routing` strategy will navigate to the configured route.
 
+### Creating the component
+
+#### Dialog
+
+When using a launching a component using the `outlet` or `inline` strategy it is possible to specify a dialog type. Based on the selected type certain CSS classes will be applied to the component. These components will transform the container into the selected type of dialog. All you have left to do is add the content to your component and style it.
+
+### Others
+
+// TODO
+
+### Closing
+
+// TODO
+
 ## Configuration
 
 The launch service supports three launch strategies Outlets, Inline and Routing with different configurations. Each of the elements is tied to a "label" that is used to distinguish configuration.
