@@ -253,6 +253,8 @@ docs:
                   url: /main-actions-with-form-pages/
                 - title: "Writing Notification Banners"
                   url: /writing-notification-banners/
+          - title: "Launch Service ➢"
+            url: /launch-service/
 
     - title: Contributing to Spartacus
       children:
