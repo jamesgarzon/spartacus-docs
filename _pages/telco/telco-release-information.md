@@ -1,28 +1,9 @@
 ---
-title: Release Information for Versions 1.0-1.1 of Telco & Utilities Spartacus Libraries
+title: Release Information for Version 1.0.0 of TUA Spartacus Libraries
 ---
 
-This document describes what is included in all Telco & Utilities Spartacus 1.x libraries since 1.0.
+*Last updated July 24, 2020 by Deborah Cholmeley-Jones, Solution Owner, TUA for Spartacus*
 
-**Note:** Telco & Utilities Spartacus 1.x requires Angular 8. Telco & Utilities Spartacus is not intended to work with Angular 9.
 
-*Last updated May 11, 2020 by Sachin Khasgiwale, Technical Writer, Telco & Utilities Storefront Spartacus*
+Release 1.0 is the very first release of the TUA Spartacus libraries, and at this time, we have only pre-releases available for 1.0. To learn more about what our pre-releases have to offer, see [TUA Pre-Release Information]({{ site.baseurl }}{% link _pages/telco/tua-pre-release-information.md %}).
 
-For information on specific code changes for a particular release, see Development Release Notes at .
-For information about features published in pre-release libraries, see Pre-Release Information.
-
-Contents:
-
-- Introduction
-- Release 1.5
-- About Telco & Utilities Storefront Spartacus Releases
-- How Telco & Utilities Storefront Spartacus is Versioned
-- Future Releases
-
-## Introduction
-
-This document describes what is included in the latest releases of Telco & Utilities Spartacus libraries.
-
-If you have technical questions, you can get in touch with Telco & Utilities Spartacus. For non-technical questions, you can reach us on our Slack workspace. Feedback welcome!
-
-- [Telco Checkout]
