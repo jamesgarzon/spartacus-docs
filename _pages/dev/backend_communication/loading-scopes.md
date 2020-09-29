@@ -35,14 +35,14 @@ productService.get(code, ProductScope.DETAILS) // get detailed product data, sui
 
 ## Configuring Payload for Scopes
 
-When using Occ Products Adapter you can configure scope payloads using `fields` parameter in the endpoint configuration, under `product_scopes` key:
+When using Occ Products Adapter you can configure scope payloads using `fields` parameter in the endpoint configuration, under `product` key:
 
 ```json
 {
   backend: {
     occ: {
       endpoints: {
-        product_scopes: {
+        product: {
           list: 'products/${productCode}?fields=code,name,summary,price(formattedValue),images(DEFAULT,galleryIndex)',
           // ...
           attributes: 'products/${productCode}?fields=classifications',
